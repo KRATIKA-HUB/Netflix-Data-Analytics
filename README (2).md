@@ -112,4 +112,4 @@ Kratika Gupta
 
 📬 Connect on LinkedIn
 
- | GitHub Profile
+ | [GitHub Profile](https://github.com/KRATIKA-HUB)
