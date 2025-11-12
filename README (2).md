@@ -110,6 +110,7 @@ Top Performing Titles: **Based on ratings and number of votes**
 Kratika Gupta
 🎓 Aspiring Data Analyst | Skilled in SQL, Python, Excel, and Power BI
 
-📬 Connect on LinkedIn
+📬 Connect on [LinkedIn](www.linkedin.com/in/
+kratika-gupta-88309828a)
 
  | [GitHub Profile](https://github.com/KRATIKA-HUB)
