@@ -58,7 +58,8 @@ Netflix titles dataset (public dataset available on Kaggle).
 
 ### 📷 Dashboard Preview:
 
-"C:\Users\intel\OneDrive\Pictures\Screenshots\Screenshot 2025-11-12 132606.png"
+<img width="1251" height="748" alt="Screenshot 2025-11-12 132606" src="https://github.com/user-attachments/assets/01da5626-b357-4340-b661-ecdbe0913371" />
+
 
 ### 🧠 Key Insights:
 
