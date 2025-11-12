@@ -23,7 +23,7 @@ This project is an interactive Power BI Dashboard built to analyze and visualize
 
 [Future Enhancement](https://github.com/KRATIKA-HUB/Netflix-Data-Analytics/blob/main/README%20(2).md#-future-enhancements)
 
-
+[Author](https://github.com/KRATIKA-HUB/Netflix-Data-Analytics/blob/main/README%20(2).md#%E2%80%8D-author)
 
 
 
