@@ -7,7 +7,7 @@ This project is an interactive Power BI Dashboard built to analyze and visualize
 
 ## Table Content:
 
-
+(Objective)<img width="1251" height="748" alt="Screenshot 2025-11-12 132606" src="https://github.com/user-attachments/assets/e48f275b-8359-4397-a8c3-7e2a072c917e" />
 
 
 
