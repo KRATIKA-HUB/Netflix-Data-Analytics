@@ -1,4 +1,4 @@
-🧾 About the Project
+## 🧾 About the Project:
 
 The Netflix Data Analysis Dashboard is a data visualization and analytics project built using Power BI to uncover insights from Netflix’s vast library of movies and TV shows.
 
@@ -6,7 +6,7 @@ The main goal of this project is to transform raw data into visually compelling 
 
 Through this project, I explored end-to-end data analysis — from data cleaning and modeling to interactive dashboard design — demonstrating how data storytelling can support strategic decision-making in the entertainment industry.
 
-This project reflects my ability to:
+### This project reflects my ability to:
 
 Perform data-driven exploration using Power BI
 
