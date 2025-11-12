@@ -58,6 +58,8 @@ Netflix titles dataset (public dataset available on Kaggle).
 
 ### 📷 Dashboard Preview:
 
+"C:\Users\intel\OneDrive\Pictures\Screenshots\Screenshot 2025-11-12 132606.png"
+
 ### 🧠 Key Insights:
 
 Total Titles: **2,872**
